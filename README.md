@@ -46,11 +46,11 @@ This project uses data cleaning, EDA (Exploratory Data Analysis), feature engine
 - Pandas, NumPy, Matplotlib, Seaborn
 - Scikit-learn
 - Joblib
-- Jupyter Notebook
+- Google Collab
 
 ---
 
 ## 📞 Contact
-Created with ❤️ by [Your Name]  
+Created with ❤️ by Shwetank
 Feel free to connect or reach out!
 
